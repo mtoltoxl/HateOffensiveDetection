@@ -1,1 +1,8 @@
-
+pandas
+numpy
+torch
+datasets
+transformers
+sklearn.metrics
+tqdm
+pdb
